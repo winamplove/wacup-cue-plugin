@@ -14,8 +14,8 @@ Now you can play .CUE files like it's 2013 again. Please create GitHub issues fo
 
 ----
 
-AI Disclaimer: this plugin was made with Claude Code Opus 5.5 using 5 stepwise prompts. Here is the consolidated prompt:
+**AI Disclaimer:** this plugin was made with Claude Code (Opus 5.5 Medium) using 5 stepwise prompts. Here is the consolidated prompt:
 
-```Create a plugin for WACUP music player that offers .CUE file support. When CAUP opens a .CUE file, the plugin will parse the file and treat it as a playlist for the matching .mp3 in the same folder. Each song in the .cue sheet should appear in the WACUP playlist as an individual song title. When a user selects to play one of the songs from the playlist, WACUP will seek to the correct position in the .mp3 and play. While the .mp3 is playing, the playlist will highlight the currently playing song, as it currently does with separated song files. The visualization and waveform seeker in WACUP should both function in respect to the currently playing song in the playlist, and not the .mp3 as a whole.```
-
-Visual Studio Community is installed at <X> and WACUP is installed at <Y>.
+> Create a plugin for WACUP music player that offers .CUE file support. When CAUP opens a .CUE file, the plugin will parse the file and treat it as a playlist for the matching .mp3 in the same folder. Each song in the .cue sheet should appear in the WACUP playlist as an individual song title. When a user selects to play one of the songs from the playlist, WACUP will seek to the correct position in the .mp3 and play. While the .mp3 is playing, the playlist will highlight the currently playing song, as it currently does with separated song files. The visualization and waveform seeker in WACUP should both function in respect to the currently playing song in the playlist, and not the .mp3 as a whole.
+> 
+> Visual Studio Community is installed at ___ and WACUP is installed at ___.
