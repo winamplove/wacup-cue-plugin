@@ -1,4 +1,4 @@
-# WACUP CUE Sheet Support 1.0 plugin (Nov 2026)
+# ⚡WACUP CUE Sheet Support 1.0 plugin (Nov 2026)
 
 It's been [a long time coming](https://getwacup.com/community/index.php?topic=869.0), but .CUE file support is finally available with this unofficial third-party WACUP plugin.
 
